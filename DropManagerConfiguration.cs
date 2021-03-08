@@ -19,9 +19,8 @@ namespace DropManager
             
             Items = new List<Item>
             {
-                new Item("Venison Raw meat", 514, 1, 2),
-                new Item("Tomato", 340, 0, 1),
-                new Item("5 dollars", 1051, 1, 1)
+                new Item("Box of Gun Parts", 36230, 1, 2)
+                new Item("Standard Coin", 62626, 1, 3)
             };
 
             BlackListIds = "47132, 58950, 41829";
